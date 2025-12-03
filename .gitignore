@@ -11,3 +11,4 @@ wheels/
 
 # App specific ignores
 game_state.jsonl
+game_events.jsonl
